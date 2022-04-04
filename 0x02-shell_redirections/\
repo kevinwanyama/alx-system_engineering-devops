@@ -1,0 +1,4 @@
+this are shell, I/O redirection and filters
+'\' prevents next characters from being interpreted as a  special character
+"11- directory " contains - script that counts the number of directories and sub-directories in the current directory
+12.creates a script that displays the 10 newest files in the current directory,one file per line and is sorted from the newest to the oldest.
